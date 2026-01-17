@@ -1,0 +1,1 @@
+This repository hosts a write up, code, and datasets from the VN1 Forecasting competition. Please view the pdf report "VN1 Forecasting Competition: Exploration of LGBM/Theta" before reviewing the code.
